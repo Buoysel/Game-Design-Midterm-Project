@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 78cc58895ef73c448a4fe8ec15087292
+timeCreated: 1442868313
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Barrel-ColliderOnly
+    100004: BarrelSpawner
+    100006: Border
+    100008: Camera
+    100010: Droid
+    100012: Grinder
+    100014: Key
+    100016: Lamp
+    100018: //RootNode
+    100020: Platform-Goal
+    100022: Platform-Long
+    100024: Platform-Medium
+    100026: Platform-Short
+    100028: Platform-Steps
+    100030: Platform-Steps2
+    100032: Platform-VeryLong
+    400000: Barrel
+    400002: Barrel-ColliderOnly
+    400004: BarrelSpawner
+    400006: Border
+    400008: Camera
+    400010: Droid
+    400012: Grinder
+    400014: Key
+    400016: Lamp
+    400018: //RootNode
+    400020: Platform-Goal
+    400022: Platform-Long
+    400024: Platform-Medium
+    400026: Platform-Short
+    400028: Platform-Steps
+    400030: Platform-Steps2
+    400032: Platform-VeryLong
+    2300000: Barrel
+    2300002: Barrel-ColliderOnly
+    2300004: BarrelSpawner
+    2300006: Border
+    2300008: Droid
+    2300010: Grinder
+    2300012: Key
+    2300014: Platform-Goal
+    2300016: Platform-Long
+    2300018: Platform-Medium
+    2300020: Platform-Short
+    2300022: Platform-Steps
+    2300024: Platform-Steps2
+    2300026: Platform-VeryLong
+    3300000: Barrel
+    3300002: Barrel-ColliderOnly
+    3300004: BarrelSpawner
+    3300006: Border
+    3300008: Droid
+    3300010: Grinder
+    3300012: Key
+    3300014: Platform-Goal
+    3300016: Platform-Long
+    3300018: Platform-Medium
+    3300020: Platform-Short
+    3300022: Platform-Steps
+    3300024: Platform-Steps2
+    3300026: Platform-VeryLong
+    4300000: Barrel-ColliderOnly
+    4300002: Platform-Steps2
+    4300004: BarrelSpawner
+    4300006: Barrel
+    4300008: Platform-Steps
+    4300010: Platform-VeryLong
+    4300012: Droid
+    4300014: Key
+    4300016: Platform-Goal
+    4300018: Platform-Long
+    4300020: Platform-Medium
+    4300022: Platform-Short
+    4300024: Grinder
+    4300026: Border
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
